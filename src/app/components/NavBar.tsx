@@ -50,9 +50,7 @@ export default function Navbar() {
                 <li className="font-cabin font-medium">
                   <a href="">Services</a>
                 </li>
-                <li className="font-cabin font-medium">
-                  <a href="">Projects</a>
-                </li>
+                <li className="font-cabin font-medium">Projects</li>
                 <li className="font-cabin font-medium">
                   <a href="">Contact</a>
                 </li>
@@ -133,7 +131,7 @@ export default function Navbar() {
                   </li>
                 </ul>
                 <p className="mt-4">
-                  <a href="#">Projects</a>
+                  <a href="Projects"></a>
                 </p>
                 <p className=" mt-4 mb-3">
                   {" "}
